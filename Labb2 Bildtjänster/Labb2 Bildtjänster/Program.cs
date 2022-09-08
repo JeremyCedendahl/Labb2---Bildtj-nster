@@ -98,7 +98,7 @@ namespace Labb2_Bildtjänster
                 }
             }
           
-           
+            Console.ReadKey();
         }
 
         static async Task AnalyzeImage(string imageFile)
